@@ -2,5 +2,5 @@
 React Fully Responsive Website
 
 **Run Steps**
-npm install
-npm start
+1) npm install
+2) npm start
